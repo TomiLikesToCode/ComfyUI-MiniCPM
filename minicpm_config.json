@@ -43,7 +43,7 @@
 			"description": "V4.0 4-bit quantized version, smaller memory footprint"
 		},
 		"MiniCPM-V-4.5": {
-			"name": "openbmb/MiniCPM-V-4_5",
+			"name": "huihui-ai/Huihui-MiniCPM-V-4_5-abliterated",
 			"description": "Latest V4.5 version with enhanced capabilities"
 		},
 		"MiniCPM-V-4": {
